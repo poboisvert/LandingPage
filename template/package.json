@@ -1,7 +1,9 @@
 {
-  "name": "landing",
-  "version": "0.1.0",
-  "private": true,
+  "name": "cra-template-bonnethood",
+  "description": "Landing Page under Next JS",
+  "version": "0.1.1",
+  "private": false,
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

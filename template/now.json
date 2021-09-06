@@ -4,8 +4,7 @@
     {
       "source": "/service-worker.js",
       "destination": "/_next/static/service-worker.js"
-    },
-    { "source": "/robots.txt", "destination": "/robots.txt" }
+    }
   ],
   "headers": [
     {
