@@ -13,3 +13,13 @@ This is a free React landing page template written in JavaScript, designed for s
 - Contact Form
 
 - Low Maintenance
+
+## SEO Friendly
+
+## Installation
+
+```
+git clone https://github.com/poboisvert/LandingPage.git
+cd template && npm install
+npm run dev
+```
